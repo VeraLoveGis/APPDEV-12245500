@@ -57,3 +57,12 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 Python is an easy-to-use programming language for people who want to express concepts in
 code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
 </div>
+
+## Resources
+Here are some helpful resources for learning more about Python:
+- [Python.org](https://www.python.org/) - The official website for Python, with a wealth of information and resources for learning the language.
+- [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - A free online book that provides a comprehensive introduction.
+
+<div style="border-top: 4px solid lightgrey;"></div>
+
+*Article content is generated using ChatGPT*
