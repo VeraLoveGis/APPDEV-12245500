@@ -1,2 +1,4 @@
-# APPDEV-12245500
-Application Development Assignment A
+
+# Application Development Assignment A
+
+Submitted by 12245500
