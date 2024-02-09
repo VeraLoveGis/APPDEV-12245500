@@ -49,3 +49,11 @@ Python has a variety of built-in functions that can be used to perform a wide ra
 |`int()`     | The *int* function is used to convert a value to an integer.               |
 |`min()`     | The *min* function is used to find the minimum value in a list or a string.|
 |`max()`     | The *max* function is used to find the maximum value in a list or a string.|
+
+## Conclusion
+Python is a powerful, high-level programming language that is widely used in many different fields. Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its large community of developers ensures that there is always support and resources available. With a wide range of libraries available for different tasks, Python is a versatile choice for any programmer. 
+As the famous computer scientist, Guido van Rossum, the creator of Python, said:
+<div style="border-left: 3px solid lightgrey; padding-left: 10px;">
+Python is an easy-to-use programming language for people who want to express concepts in
+code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
+</div>
